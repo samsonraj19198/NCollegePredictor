@@ -1,2 +1,2 @@
-# NCollegePredictor
-Tool to help students choose their colleges based on their EAMCET ranks.
+# NCollege_Choose
+### Check it out here -  https://suchith989.github.io/NCollege_Choose/
